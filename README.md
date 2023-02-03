@@ -4,7 +4,7 @@ fwfwefe
 ## test
 - dadsa
 
-- Containerize frontend
+- *Containerize frontend*
 ```
 sudo docker build -t frontend:v3 .
 sudo docker images frontend (check image)
